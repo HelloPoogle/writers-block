@@ -1,2 +1,1 @@
-# writers-block
-zero
+# writers block ∅
